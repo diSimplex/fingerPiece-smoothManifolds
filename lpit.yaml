@@ -1,0 +1,26 @@
+# This is the LPiT definition YAML file for the <<>> document
+
+doc:
+  id: smoothMan
+  name: smoothManifolds
+  type: paper
+
+title:
+  short: Smooth Manifolds
+  long: Smooth Manifolds and General Relativity
+
+gitHub: https://github.com/stephengaito/fingerPiece-smoothManifolds.git
+
+authors:
+  - given: Stephen
+    family: Gaito
+    email: stephen@perceptisys.co.uk
+
+#packages:
+#  - location: <<>> # optional
+#    name: <<>
+#    version: <<>>
+
+abstract: |
+  A summary of the Smooth Manifolds and General Relativtiy used in the
+  diSimplex projects
